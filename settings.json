@@ -1,0 +1,48 @@
+{
+    "workbench.colorTheme": "Palenight Theme",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.minimap.enabled": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.formatOnSave": true,
+    "editor.guides.indentation": false,
+    "indenticator.width": 0.1,
+    "indenticator.color.dark": "rgba(255,255,255,0.1)",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.showTabs": false,
+    "workbench.editor.enablePreview": false,
+    "breadcrumbs.enabled":false,
+    "editor.glyphMargin":false,
+    "workbench.activityBar.visible": false,
+    "editor.tabSize": 4,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tapsize":4;
+    },
+    "liveSassCompile.settings.formats":[
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        },
+    ],
+    "editor.matchBrackets": "never",
+    "liveServer.settings.showOnStatusbar": false,
+    "liveSassCompile.settings.excludeList": [
+        "/**/node_modules/**",
+        "/.vscode/**"
+    ],
+    "liveSassCompile.settings.showOutputWindowOn": "None",
+    "update.showReleaseNotes": false,
+    "window.zoomLevel": -1,
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabsize":4;
+    },
+}
