@@ -1,0 +1,2 @@
+# .vscode
+configuracion de vscode
